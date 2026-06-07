@@ -16,7 +16,7 @@ R:
 insertOne({
   "nome": "Daniel",
   "sobrenome": "Clovis",
-  "data_nascimento": "2006-005-12",
+  "data_nascimento": "2006-05-12",
   "data_contratacao": "2026-05-10",
   "salario": 8000,
   "departamento": "Tecnologia",
